@@ -1,0 +1,132 @@
+2025-01-10 16:57:54,567 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-01-10 16:59:56,798 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kits.www:springboot-backend:0.0.1-SNAPSHOT @ D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\demo\pom.xml.
+2025-01-10 17:00:01,726 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2025-01-10 17:00:01,740 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2025-01-10 17:00:01,776 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2025-01-10 17:00:01,788 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2025-01-10 17:00:01,803 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/test/resources
+2025-01-10 17:00:06,528 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 15 sec
+2025-01-10 17:00:06,535 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-10 17:00:08,311 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kits.www:springboot-backend:0.0.1-SNAPSHOT @ D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\demo\pom.xml.
+2025-01-10 17:00:10,016 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2025-01-10 17:00:10,017 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2025-01-10 17:00:10,018 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2025-01-10 17:00:10,019 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2025-01-10 17:00:10,021 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/test/resources
+2025-01-10 17:00:11,390 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 0.00 sec 
+2025-01-10 17:00:13,402 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-10 17:00:13,440 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-10 17:00:13,449 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\demo\src\test\resources
+2025-01-10 17:03:39,143 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kits.www:springboot-backend:0.0.1-SNAPSHOT @ D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\pom.xml.
+2025-01-10 17:03:41,194 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-backend/src/main/java
+2025-01-10 17:03:41,195 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-backend/src/main/resources
+2025-01-10 17:03:41,201 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-backend/src/main/resources
+2025-01-10 17:03:41,222 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-backend/src/test/java
+2025-01-10 17:03:41,224 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-backend/src/test/resources
+2025-01-10 17:03:42,141 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2025-01-10 17:03:42,144 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-10 17:03:43,227 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kits.www:springboot-backend:0.0.1-SNAPSHOT @ D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\pom.xml.
+2025-01-10 17:03:45,501 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-backend/src/main/java
+2025-01-10 17:03:45,503 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-backend/src/main/resources
+2025-01-10 17:03:45,505 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-backend/src/main/resources
+2025-01-10 17:03:45,506 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-backend/src/test/java
+2025-01-10 17:03:45,508 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-backend/src/test/resources
+2025-01-10 17:03:46,165 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 0.00 sec 
+2025-01-10 17:03:47,011 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-10 17:03:47,050 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-10 17:03:47,061 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-01-10 17:05:35,770 [Worker-15: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kits.www:springboot-backend:0.0.1-SNAPSHOT @ D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\pom.xml.
+2025-01-10 17:05:37,930 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-backend/src/main/java
+2025-01-10 17:05:37,931 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-backend/src/main/resources
+2025-01-10 17:05:37,937 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-backend/src/main/resources
+2025-01-10 17:05:37,942 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-backend/src/test/java
+2025-01-10 17:05:37,943 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-backend/src/test/resources
+2025-01-10 17:05:38,891 [Worker-15: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2025-01-10 17:05:38,894 [Worker-15: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-01-10 17:05:39,894 [Worker-15: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.kits.www:springboot-backend:0.0.1-SNAPSHOT @ D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\pom.xml.
+2025-01-10 17:05:41,084 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-backend/src/main/java
+2025-01-10 17:05:41,085 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-backend/src/main/resources
+2025-01-10 17:05:41,086 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-backend/src/main/resources
+2025-01-10 17:05:41,087 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-backend/src/test/java
+2025-01-10 17:05:41,089 [Worker-15: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-backend/src/test/resources
+2025-01-10 17:05:41,837 [Worker-15: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2025-01-10 17:05:42,774 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-10 17:05:42,807 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-10 17:05:42,814 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-01-10 17:09:43,547 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-10 17:09:43,627 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-10 17:09:43,643 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-01-10 17:10:13,892 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-10 17:10:13,931 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-10 17:10:13,936 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-01-10 17:10:57,238 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-10 17:10:57,276 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-10 17:10:57,284 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-01-10 17:11:32,700 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-10 17:11:32,746 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-10 17:11:32,769 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-01-10 17:11:45,910 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-10 17:11:46,043 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-10 17:11:46,054 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-01-10 17:12:14,339 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-10 17:12:14,355 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-10 17:12:14,372 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-01-10 17:12:24,564 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-10 17:12:24,611 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-10 17:12:24,658 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-01-10 17:12:48,059 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-10 17:12:48,071 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-10 17:12:48,080 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-01-10 17:13:10,479 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-10 17:13:10,495 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-10 17:13:10,500 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-01-10 17:13:39,061 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-10 17:13:39,106 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-10 17:13:39,114 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-01-10 17:13:53,837 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-10 17:13:54,075 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-10 17:13:54,082 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-01-10 21:24:27,022 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-10 22:28:55,172 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-10 22:28:55,417 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-10 22:28:55,434 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-01-11 00:24:07,092 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-11 00:24:07,125 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-11 00:24:07,134 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-01-11 00:24:07,661 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-11 00:24:07,673 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-11 00:24:07,681 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-01-11 00:31:44,098 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-11 00:31:44,163 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-11 00:31:44,181 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-01-11 01:18:48,313 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-11 01:19:08,035 [Worker-5: Launching springboot-backend - SpringbootBackendApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-11 01:19:08,082 [Worker-5: Launching springboot-backend - SpringbootBackendApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-11 01:19:08,093 [Worker-5: Launching springboot-backend - SpringbootBackendApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-02-20 21:29:49,560 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-02-20 22:13:12,533 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-20 22:13:12,680 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-20 22:13:12,692 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-02-20 22:13:17,061 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-20 22:13:17,080 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-20 22:13:17,086 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-02-21 11:55:10,074 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-21 11:55:10,228 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 11:55:10,255 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-02-21 11:55:17,714 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-21 11:55:17,769 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-21 11:55:17,789 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-02-25 22:14:49,565 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-02-25 23:39:23,548 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-02-26 00:29:18,032 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-26 00:29:18,256 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 00:29:18,270 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-02-26 00:29:55,768 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-26 00:29:55,796 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 00:29:55,802 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-02-26 00:33:28,827 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-26 00:33:28,917 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 00:33:28,922 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources
+2025-02-26 00:33:32,546 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-26 00:33:32,596 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-02-26 00:33:32,603 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\QT(Full Stack Development)\notes\Java Project\STS-workspace\springboot-backend\src\test\resources

@@ -1,0 +1,36 @@
+package com.kits.www.service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.web.bind.annotation.RequestBody;
+
+import com.kits.www.exception.ResourceNotFoundException;
+import com.kits.www.model.Employee;
+import com.kits.www.repo.EmployeeRepository;
+
+@Service
+public class EmployeeService 
+{
+	@Autowired
+	EmployeeRepository employeeRepository;
+	
+	//return all employee
+	public List<Employee> getAllEmployees()
+	{
+		return employeeRepository.findAll();
+	}
+	//add employee
+	public Employee addEmployee(@RequestBody Employee employee) 
+	{
+		return employeeRepository.save(employee);
+	}
+	//get Employee by id
+	public Employee getEmployeeById(long id)
+	{
+		return employeeRepository.findById(id)
+				.orElseThrow(()-> new ResourceNotFoundException("Id Not Found"));
+	}
+
+}
