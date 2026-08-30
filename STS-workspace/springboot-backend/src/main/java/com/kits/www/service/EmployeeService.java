@@ -53,6 +53,13 @@ public class EmployeeService
 		employeeRepository.delete(employee);
 		return new ResponseEntity<>(HttpStatus.NO_CONTENT);
 	}
-
+     
+	public Employee getEmployeeByEmail(String email) {
+		  Employee employee=employeeRepository.findByEmail(email)
+				  .orElseThrow(()->new ResourceNotFoundException("email not Found"));
+		  
+		  return employee;
+		  
+	}
 }
 

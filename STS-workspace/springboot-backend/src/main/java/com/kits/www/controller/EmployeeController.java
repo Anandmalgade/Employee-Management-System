@@ -18,43 +18,50 @@ import org.springframework.web.bind.annotation.RestController;
 import com.kits.www.model.Employee;
 import com.kits.www.service.EmployeeService;
 
-@CrossOrigin(origins="http://localhost:3000")
+
 @RestController
-@RequestMapping("/api/v1/")
+@RequestMapping("/api")
+@CrossOrigin("http://localhost:4200")
 public class EmployeeController 
 {
 	@Autowired
 	EmployeeService employeeService; 
 	
 	//return all employees
-	@GetMapping("/employees")
+	@GetMapping
 	public List<Employee> getAllEmployees()
 	{
 		return employeeService.getAllEmployees();
 	}
 	//add Employees
-	@PostMapping("/employees")
+	@PostMapping
 	public Employee addEmployee(@RequestBody Employee employee) 
 	{
 		return employeeService.addEmployee(employee);
 	}
 	//getEmployee By id
-	@GetMapping("employees/{id}")
+	@GetMapping("{id}")
 	public Employee getEmployeeById(@PathVariable long id)
 	{
 	     return employeeService.getEmployeeById(id);
 	 }
-	@PutMapping("/employees/{id}")
+	@PutMapping("{id}")
 	public ResponseEntity<Employee> updateEmployeeById(@PathVariable long id,@RequestBody Employee employee)
 	{
 		return employeeService.updateEmployeeById(id,employee);
 	}
 	
-	@DeleteMapping("/employees/{id}")
+	@DeleteMapping("{id}")
 	public ResponseEntity<HttpStatus> deleteEmployee(@PathVariable long id)
 	{
 		return employeeService.deleteEmployee(id);
 		
+	}
+		
+	@GetMapping("/employees/by/{email}")
+	public ResponseEntity<Employee>getEmployeeByEmail(@PathVariable String email){
+		Employee employee=employeeService.getEmployeeByEmail(email);
+		return new ResponseEntity<Employee>(employee,HttpStatus.OK);
 	}
 
 }

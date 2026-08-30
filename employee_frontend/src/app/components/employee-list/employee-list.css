@@ -1,0 +1,33 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+.navbar{
+
+    display: flex;
+    justify-content: space-between;
+    height:60px;
+    align-items: center;
+    background-color:aliceblue;
+    padding:0 20px;
+    
+}
+.logo{
+   
+    padding:5px;
+    margin:10px;
+}
+.menu{
+    
+    display:flex;
+    gap:32px; 
+    
+}
+.menu-item{
+    color:chocolate;
+     text-decoration: none;
+}
+.menu-item:hover{
+    color: blueviolet;
+   
+}
