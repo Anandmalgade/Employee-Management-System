@@ -8,13 +8,11 @@ import { Employee } from '../models/Employee';
 })
 export class EmployeeService {
   
-  constructor(private http:HttpClient){}
+     private baseUrl='http://localhost:9191/api';
+    constructor(private http:HttpClient){}
 
-  private baseUrl="https://localhost:9191/api";
-
-  getAllEmployee():Observable<Employee[]>{
-    
-    return this.http.get<Employee[]>(this.baseUrl);
-  }
-   
+    getAllEmployee():Observable<Employee[]>{
+        
+      return this.http.get<Employee[]>(this.baseUrl);
+    }
 }

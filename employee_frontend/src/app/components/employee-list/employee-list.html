@@ -1,10 +1,20 @@
-<nav class="navbar">
-   <div class="logo">
-   Employee Mangagment System
-   </div>
-    <div class="menu">
-     <a href="#" class="menu-item">Home</a>
-     <a href="#" class="menu-item">about</a>
-     <a href="#" class="menu-item">contact</a>    
-    </div>
-</nav>
+
+<table border="1">
+        <tr>
+        <th>ID</th>
+        <th>firstName</th>
+        <th>LastName</th>
+        <th>Email</th>
+       </tr>
+       @for(employee of employees;track employee.id){
+       <tr>
+              <td>{{employee.id}}</td>
+              <td>{{employee.firstName}}</td>
+              <td>{{employee.lastName}}</td>
+              <td>{{employee.email}}</td>
+          
+       </tr>
+    }
+</table>
+
+<p>employee.length</p>
