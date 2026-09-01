@@ -1,10 +1,11 @@
 import { Component, OnInit } from '@angular/core';
 import { Employee } from '../../models/Employee';
 import { EmployeeService } from '../../services/employee-service';
+import { RouterLink } from '@angular/router';
 
 @Component({
   selector: 'app-employee-list',
-  imports: [],
+  imports: [RouterLink],
   templateUrl: './employee-list.html',
   styleUrl: './employee-list.css',
 })
@@ -22,6 +23,7 @@ export class EmployeeList implements OnInit{
           .subscribe( data =>{this.employees=data});
           
     }  
+    
        
 
 }

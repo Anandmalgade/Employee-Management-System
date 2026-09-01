@@ -1,1 +1,11 @@
-<p>employee-form works!</p>
+<form [formGroup]="employeeForm">
+    <label for="firstName">fistName</label>
+    <input type="text" formControlName="firstName"/><br>
+    <label for="firstName">lastName</label>
+    <input type="text" formControlName="lastName"/><br>
+    <label for="firstName">email</label>
+    <input type="text" formControlName="email"/><br>
+
+    <button type="button" (click)="saveEmployee()">save</button>
+</form>
+
