@@ -1,0 +1,14 @@
+<h2>Search Employee</h2>
+<input type="text" [(ngModel)]="email" placeholder="Enter email">
+
+<button type="button" (click)="searchEmployee()">Search</button>
+@if(employee){
+
+   <h3>Employee Details</h3>
+
+   <p>ID : {{employee.id}}</p>
+   <p>First Name : {{employee.firstName}}</p>
+   <p>Last Name : {{employee.lastName}}</p>
+   <p>Email : {{employee.email}}</p>
+
+}

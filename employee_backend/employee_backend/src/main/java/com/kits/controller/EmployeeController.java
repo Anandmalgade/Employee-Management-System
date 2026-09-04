@@ -46,6 +46,7 @@ public class EmployeeController
     {
         return employeeService.getEmployeeById(id);
     }
+
     @PutMapping("{id}")
     public ResponseEntity<Employee> updateEmployeeById(@PathVariable long id,@RequestBody Employee employee)
     {
@@ -59,7 +60,7 @@ public class EmployeeController
 
     }
 
-    @GetMapping("/employees/by/{email}")
+    @GetMapping("/by/{email}")
     public ResponseEntity<Employee>getEmployeeByEmail(@PathVariable String email){
         Employee employee=employeeService.getEmployeeByEmail(email);
         return new ResponseEntity<Employee>(employee,HttpStatus.OK);

@@ -20,4 +20,9 @@ export class EmployeeService {
     addEmployee(employee:CreateEmployee):Observable<Employee>{
          return this.http.post<Employee>(this.baseUrl,employee);
     }
+
+    getEmployeeByEmail(email:string):Observable<Employee>{
+        
+      return this.http.get<Employee>(`${this.baseUrl}/by/${email}`);
+    }
 }
